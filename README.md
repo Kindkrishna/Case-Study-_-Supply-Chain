@@ -1,7 +1,7 @@
 # Case-Study-Supply-Chain
-![case_study]([https://github.com/Kindkrishna/Case-Study-Supply-Chain/blob/main/supply_db.sql](https://github.com/Kindkrishna/Case-Study-_-Supply-Chain/blob/main/case_study.PNG?raw=true))
+![suply](https://github.com/Kindkrishna/Case-Study-_-Supply-Chain/blob/f913b6826b2f70a3d6ccab92623c55a7c9eba68c/case_study.PNG)
 
-(https://github.com/Kindkrishna/Case-Study-_-Supply-Chain/blob/main/supply_db.sql)
+
 Case Study Supply Chain
 The tables present in the supply chain data set are as follows:
 Orders: Order_Id is the primary key.
