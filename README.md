@@ -1,5 +1,5 @@
 # Case-Study-Supply-Chain
-![case_study](https://github.com/Kindkrishna/Case-Study-Supply-Chain/blob/main/supply_db.sql)
+![case_study]([https://github.com/Kindkrishna/Case-Study-Supply-Chain/blob/main/supply_db.sql](https://github.com/Kindkrishna/Case-Study-_-Supply-Chain/blob/main/case_study.PNG?raw=true))
 
 (https://github.com/Kindkrishna/Case-Study-_-Supply-Chain/blob/main/supply_db.sql)
 Case Study Supply Chain
